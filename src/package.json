@@ -1,0 +1,11 @@
+{
+  "name": "gmail-mac-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "width": 800,
+    "height": 500
+  }
+}
